@@ -562,23 +562,23 @@ SOFTWARE.
 
 ### Get Help
 - 📖 **Documentation**: Read this README thoroughly
-- 💬 **Issues**: [GitHub Issues](https://github.com/yourusername/blackstrike/issues)
+- 💬 **Issues**: [GitHub Issues](https://github.com/adamhafi/blackstrike/issues)
 - 🐛 **Bug Reports**: Use issue template
 - 💡 **Feature Requests**: Submit via GitHub
 
 ### Stay Connected
-- 🌐 **GitHub**: [@yourusername](https://github.com/yourusername)
-- 📦 **Project**: [BlackStrike Repository](https://github.com/yourusername/blackstrike)
+- 🌐 **GitHub**: [@yourusername](https://github.com/adamhafi)
+- 📦 **Project**: [BlackStrike Repository](https://github.com/adamhafi/blackstrike)
 - ⭐ **Star**: If you find this useful!
 
 ---
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/blackstrike?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/blackstrike?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/blackstrike)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/blackstrike)
+![GitHub stars](https://img.shields.io/github/stars/adamhafi/blackstrike?style=social)
+![GitHub forks](https://img.shields.io/github/forks/adamhafi/blackstrike?style=social)
+![GitHub issues](https://img.shields.io/github/issues/adamhafi/blackstrike)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/adamhafi/blackstrike)
 
 ---
 
@@ -616,7 +616,7 @@ SOFTWARE.
 
 ### ⭐ Star this repo if you find it useful!
 
-**[Download](https://github.com/yourusername/blackstrike/archive/refs/heads/main.zip) • [Report Bug](https://github.com/yourusername/blackstrike/issues) • [Request Feature](https://github.com/yourusername/blackstrike/issues)**
+**[Download](https://github.com/adamhafi/blackstrike/archive/refs/heads/main.zip) • [Report Bug](https://github.com/adamhafi/blackstrike/issues) • [Request Feature](https://github.com/adamhafi/blackstrike/issues)**
 
 </div>
 
