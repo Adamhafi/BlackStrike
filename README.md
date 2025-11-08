@@ -567,7 +567,7 @@ SOFTWARE.
 - 💡 **Feature Requests**: Submit via GitHub
 
 ### Stay Connected
-- 🌐 **GitHub**: [@yourusername](https://github.com/adamhafi)
+- 🌐 **GitHub**: [@AdamHafi](https://github.com/adamhafi)
 - 📦 **Project**: [BlackStrike Repository](https://github.com/adamhafi/blackstrike)
 - ⭐ **Star**: If you find this useful!
 
